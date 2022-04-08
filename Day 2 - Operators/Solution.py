@@ -1,6 +1,5 @@
 #!/bin/python3
 
-
 #
 # Complete the 'solve' function below.
 #
